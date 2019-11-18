@@ -1,8 +1,19 @@
-h1 {
-  color: blue;
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif, Georgia, "Times New Roman", Times,
+    serif;
 }
 
-.container {
-  background-color: black;
-  color: #000;
+p,
+blockquote {
+  font-size: 0.9em;
+  line-height: 1.6em;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }

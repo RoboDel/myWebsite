@@ -17,3 +17,11 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+.logo {
+  width: 60px;
+}
+
+.grey-container {
+  text-align: center;
+}

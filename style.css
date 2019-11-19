@@ -18,25 +18,10 @@ ul {
   padding: 0;
 }
 
-.container {
-  text-align: center;
-  padding: 0.9em, 1.6em;
-}
-
 .logo {
-  width: 130px;
+  width: 60px;
 }
 
-.hide-mobile {
-  display: none;
-}
-
-header {
-  display: flex;
-  justify-content: space-between;
-}
-
-.menu {
-  width: 25px;
-  margin-top: 45%;
+.grey-container {
+  text-align: center;
 }

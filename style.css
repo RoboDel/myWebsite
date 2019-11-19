@@ -17,3 +17,26 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+.container {
+  text-align: center;
+  padding: 0.9em, 1.6em;
+}
+
+.logo {
+  width: 130px;
+}
+
+.hide-mobile {
+  display: none;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu {
+  width: 25px;
+  margin-top: 45%;
+}
